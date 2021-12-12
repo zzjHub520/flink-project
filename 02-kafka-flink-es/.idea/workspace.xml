@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864d0379-d3b0-457e-94c5-52409eebb9e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/src/main/java/FlinkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-FlinkDemo/target/classes/FlinkDemo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -88,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639242793435</updated>
-      <workItem from="1639242794860" duration="4302000" />
+      <workItem from="1639242794860" duration="4820000" />
     </task>
     <servers />
   </component>
