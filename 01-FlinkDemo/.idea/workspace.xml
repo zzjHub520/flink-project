@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2bfb8d8-cf74-47a4-8a2d-852327c86909" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/target/01-FlinkDemo-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/logs/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/logs/error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/src/main/java/F01_SenToKafka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-kafka-flink/src/main/java/F02_KafkaFlink.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FlinkDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlinkDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FlinkDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FlinkDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-kafka-flink-es/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-kafka-flink-es/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-kafka-flink/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-kafka-flink/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-kafka-flink/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-kafka-flink/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-kafka-flink/src/main/java/F02_KafkaFlink.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +66,7 @@
       <updated>1639247208834</updated>
       <workItem from="1639247210795" duration="97000" />
       <workItem from="1639299566142" duration="4180000" />
+      <workItem from="1639307238702" duration="803000" />
     </task>
     <servers />
   </component>
