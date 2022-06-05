@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>07-flink-map-test1</artifactId>
+    <artifactId>flink-es-create-index-test1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -147,7 +147,6 @@
             </plugin>
         </plugins>
     </build>
-
 
 
 
